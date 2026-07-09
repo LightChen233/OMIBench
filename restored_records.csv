@@ -1,0 +1,10 @@
+id,action,note
+physics-57-2,restored,"Repaired from legacy physics JSON: cleaned repeated text/raw image token and restored complete image_list."
+physics-57-18,restored,"Repaired from legacy physics JSON: cleaned raw image token and restored complete image_list."
+physics-68-1,restored,"Repaired from legacy physics JSON: removed leaked JSON text boundaries/raw image tokens and restored complete image_list."
+physics-68-2,restored,"Repaired from legacy physics JSON: removed leaked JSON text boundaries/raw image tokens and restored complete image_list."
+physics-68-3,restored,"Repaired from legacy physics JSON: removed leaked JSON text boundaries/raw image tokens and restored complete image_list."
+physics-68-4,restored,"Repaired from legacy physics JSON: removed leaked JSON text boundaries/raw image tokens and restored complete image_list."
+physics-68-5,restored,"Repaired from legacy physics JSON: removed leaked JSON text boundaries/raw image tokens and restored complete image_list."
+physics-70-11,restored,"Repaired from legacy physics JSON: cleaned raw image token, restored complete image_list, and made the target quantity explicit."
+physics-166-3,restored,"Repaired from legacy physics JSON: removed leaked JSON text boundaries/raw image tokens, restored complete image_list, and made the target quantity explicit."

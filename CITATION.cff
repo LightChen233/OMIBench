@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use OMI-Bench, please cite the arXiv paper and the upstream sources listed in dataset/SOURCES.md."
+title: "OMIBench: Benchmarking Olympiad-Level Multi-Image Reasoning in Large Vision-Language Model"
+authors:
+  - family-names: Chen
+    given-names: Qiguang
+  - family-names: Luan
+    given-names: Chengyu
+  - family-names: Wu
+    given-names: Jiajun
+  - family-names: Yu
+    given-names: Qiming
+  - family-names: Yang
+    given-names: Yi
+  - family-names: Li
+    given-names: Yizhuo
+  - family-names: Tong
+    given-names: Jingqi
+  - family-names: Feng
+    given-names: Xiachong
+  - family-names: Qin
+    given-names: Libo
+  - family-names: Che
+    given-names: Wanxiang
+year: 2026
+doi: 10.48550/arXiv.2604.20806
+url: "https://arxiv.org/abs/2604.20806"
+repository-code: "https://github.com/LightChen233/OMIBench"
+license: MIT
+identifiers:
+  - type: doi
+    value: 10.48550/arXiv.2604.20806
+  - type: other
+    value: arXiv:2604.20806
+    description: arXiv identifier
+keywords:
+  - multimodal reasoning
+  - vision-language models
+  - science benchmark
+  - multi-image reasoning
+  - olympiad
